@@ -674,8 +674,8 @@ class ExpenseReport {
 - An `@Audited` property wrapper
   that logs each time a property is read or written to.
 - A `@Decaying` property wrapper
-  that divides a set number value each time
-  each time the value is read.
+  that divides a set number value each time 
+  the value is read.
 
 ---
 
